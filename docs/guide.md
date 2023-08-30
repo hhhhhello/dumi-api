@@ -1,1 +1,1 @@
-This is a guide example.
+<API id="Foo"></API>
